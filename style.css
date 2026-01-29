@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Ubuntu;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+#navbar{
+    height: 70px;
+    width: 100%;
+    color: #E5E7EB;
+    background-color: #0f172bea ;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2vw;
+}
+#navbar-child{
+    display: flex;
+    align-items: center;
+    gap: 3vw;
+}
