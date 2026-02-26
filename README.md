@@ -1,69 +1,77 @@
+.
+
 🚀 SkillForge – Responsive Landing Page
-<p align="center"> <b>Learn from the smartest learning platform</b><br/> Built with ❤️ using HTML & CSS </p>
-✨ Live Preview
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F44336&center=true&vCenter=true&width=800&lines=Responsive+Landing+Page;Built+With+Pure+HTML+%26+CSS;Frontend+Practice+Project;Learning+By+Building+🚀" /> </p> <p align="center"> <b>Learn from the smartest learning platform</b><br/> A modern responsive landing page built using HTML & CSS. </p>
+✨ About The Project
 
-A modern, responsive landing page built to practice and master core HTML & CSS fundamentals.
+SkillForge is a fully responsive landing page created to strengthen core frontend development fundamentals.
 
-🎯 About The Project
+This project focuses on:
 
-SkillForge is a fully responsive landing page designed to:
+🧱 Writing clean semantic HTML
 
-🧱 Strengthen HTML structure skills
+🎨 Styling with modern CSS
 
-🎨 Practice modern CSS styling
+📱 Building responsive layouts
 
-📱 Master responsive design using media queries
+💡 Mastering Flexbox
 
-💡 Improve layout building with Flexbox
+🚀 Improving UI building confidence
 
-🚀 Build real-world UI confidence
+No frameworks. No libraries.
+Just pure HTML5 & CSS3.
 
-This project focuses purely on frontend fundamentals — no frameworks, just raw HTML & CSS.
-
-🖥️ Tech Stack
+🛠 Tech Stack
 + HTML5
 + CSS3
 + Flexbox
 + Media Queries
-+ Responsive Design Principles
-🎬 Features
++ Responsive Units (vh, vw, %, rem)
+🎯 Features
 
-✨ Clean & Modern UI
-📱 Fully Responsive (Desktop + Mobile)
-🎨 Custom Fonts (Google Fonts - Ubuntu)
-🧭 Responsive Navbar with Mobile Menu Icon
-🧱 Structured Hero Section Layout
-🎯 CTA Button Design
+🖥️ Clean & modern UI
 
-🧠 What I Practiced
+📱 Fully responsive design
+
+🧭 Responsive navbar with mobile menu icon
+
+🎨 Google Fonts integration (Ubuntu)
+
+🧱 Structured Hero Section layout
+
+🎯 Call-to-Action button styling
+
+📸 Project Screenshots
+🖥️ Desktop View
+<p align="center"> <!-- Replace the image path below with your actual screenshot path --> <img src=""C:\Users\sriva\OneDrive\Pictures\Screenshots\Screenshot 2026-02-26 233451.png"" alt="SkillForge Desktop View" width="90%" /> </p>
+📱 Mobile View
+<p align="center"> <!-- Replace the image path below with your actual screenshot path --> <img src=""C:\Users\sriva\OneDrive\Pictures\Screenshots\Screenshot 2026-02-26 233518.png"" alt="SkillForge Mobile View" width="40%" /> </p>
+
+🧠 Concepts Practiced
 ✔ Box Model
 ✔ Positioning
 ✔ Flexbox Layout
-✔ vw / vh Units
 ✔ calc() Function
-✔ Media Queries
 ✔ Responsive Typography
-📱 Responsive Behavior
-Device	Layout
-💻 Desktop	Two-column hero section
-📱 Mobile	Stacked layout with menu icon
-📂 Project Structure
-SkillForge/
-│
-├── index.html
-├── style.css
-└── README.md
-🧩 Hero Section Design Logic
+✔ Media Queries
+✔ Navbar Responsiveness
+🚀 What I Learned
 
-50% Left (Text Content)
+While building this project, I improved my understanding of:
 
-50% Right (Illustration)
+Percentage vs vh height
 
-calc(100vh - navbar-height) used for full-screen hero
+Flexbox alignment techniques
 
-Flexbox used for alignment
+Responsive breakpoints
 
-💥 Future Improvements
+Mobile layout restructuring
+
+Writing scalable CSS
+
+This project represents my journey toward becoming a strong frontend and full-stack developer.
+
+🔥 Future Improvements
 
 Add smooth animations
 
@@ -75,31 +83,12 @@ Deploy live version
 
 Add more sections (Testimonials, Footer, Pricing)
 
-🔥 Cool Animated Text Section
-
-Add this inside your README for animated typing effect:
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F44336&center=true&vCenter=true&width=600&lines=Responsive+Landing+Page;Built+With+Pure+HTML+%26+CSS;Practicing+Frontend+Development;On+My+Journey+To+Full+Stack+Developer" />
-</p>
-🌟 Why I Built This
-
-As part of my journey to becoming a strong frontend & full-stack developer,
-I’m building projects to:
-
-Improve UI building skills
-
-Write clean CSS
-
-Understand layout deeply
-
-Build strong fundamentals before moving to frameworks
-
-📌 Author
+👨‍💻 Author
 
 Gaurav Srivastava
-Frontend Developer in Progress 🚀
-Building. Learning. Improving daily.
+Frontend Developer | Future Full-Stack Engineer 🚀
+
+“Consistency beats motivation.”
 
 ⭐ Support
 
@@ -109,8 +98,4 @@ If you like this project:
 
 🍴 Fork it
 
-📢 Share feedback
-
-🚀 Let’s Connect & Build
-
-“Consistency beats motivation.”
+💬 Share feedback
