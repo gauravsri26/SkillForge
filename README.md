@@ -25,6 +25,7 @@ Just pure HTML5 & CSS3.
 + Flexbox
 + Media Queries
 + Responsive Units (vh, vw, %, rem)
+  
 🎯 Features
 
 🖥️ Clean & modern UI
@@ -41,9 +42,11 @@ Just pure HTML5 & CSS3.
 
 📸 Project Screenshots
 🖥️ Desktop View
-<p align="center"> <!-- Replace the image path below with your actual screenshot path --> <img src=""C:\Users\sriva\OneDrive\Pictures\Screenshots\Screenshot 2026-02-26 233451.png"" alt="SkillForge Desktop View" width="90%" /> </p>
+<img width="1901" height="923" alt="Screenshot 2026-02-26 233451" src="https://github.com/user-attachments/assets/1bdc5f47-7dfb-4dd9-8be3-2fdf9d44e829" />
+
 📱 Mobile View
-<p align="center"> <!-- Replace the image path below with your actual screenshot path --> <img src=""C:\Users\sriva\OneDrive\Pictures\Screenshots\Screenshot 2026-02-26 233518.png"" alt="SkillForge Mobile View" width="40%" /> </p>
+<img width="458" height="811" alt="Screenshot 2026-02-26 233518" src="https://github.com/user-attachments/assets/167183cc-d5b8-4863-8f0f-c1d7333e05c4" />
+
 
 🧠 Concepts Practiced
 ✔ Box Model
