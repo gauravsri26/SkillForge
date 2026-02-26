@@ -8,20 +8,155 @@
 html, body{
     height: 100%;
     width: 100%;
+    /* background-color: aqua; */
 }
+
+.main{
+    height: 100%;
+    width: 100%;
+}
+
+/* Navbar CSS */
+
 #navbar{
     height: 70px;
     width: 100%;
-    color: #E5E7EB;
-    background-color: #0f172bea ;
+    color: #2c2d2e;
+    /* background-color: #0f172bea ; */
+    border-bottom: 2px solid black;
     position: relative;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 2vw;
+    padding: 0 5vw;
 }
 #navbar-child{
     display: flex;
     align-items: center;
     gap: 3vw;
 }
+
+
+#navbar h2{
+    font-size: 2vw;
+}
+#navbar-child h4{
+    font-size: 1.25vw;
+}
+#navbar-child i{
+    font-size: 1.5vw;
+    font-weight: 800;
+    display: none;
+}
+#navbar-child #nav-btn{
+    font-size: 1vw;
+    padding: .5vw 1vw;
+    background-color: #F1292B;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    color: #313030;
+}
+
+/* Hero-Section CSS */
+
+#hero-section{
+    height: calc(100% - 70px);
+    width: 100%;
+    display: flex; 
+}
+#left{
+    height: 100%;
+    width: 55%;
+    padding: 5vw 5vw;
+}
+#left h1{
+    font-size: 5vw; 
+    line-height: 4.75vw;
+}
+#left p{
+    font-size: 1.5vw;
+    font-weight: 700;
+    color: #666;
+    margin-top: 1vw;
+    margin-bottom: 2vw;
+    width: 80%;    
+}
+
+#left span{
+    color: #F1292B;
+}
+
+#CTA{
+    font-size: 1.5vw;
+    color: #313030;
+    font-weight: 700;
+    padding: 1.3vw 2.3vw;
+    background-color: #F1292B;
+    border: none;
+    border-radius: 5px;
+}
+#right{
+    height: 100%;
+    width: 45%;
+}
+
+#right img{
+    height: 100%;
+    width: 100%;
+    
+}
+
+@media (max-width:700px) {
+    #navbar{
+        padding: 0vw 5vw;
+        height: 60px;
+    }
+    #navbar h2{
+        font-size: 5vw;
+    }
+    #navbar-child h4{
+        font-size: 2.5vw;
+    }
+    #navbar-child h4{
+        display: none;
+    }
+    #navbar-child i{
+        display: block;
+        font-size: 5vw;
+    }
+    #navbar-child #nav-btn{
+        display: none;
+    }
+    #hero-section{
+        height: calc(100% - 60px);
+        flex-direction: column;
+    }
+    #left{
+        width: 100%;
+        height: 40%;
+    }
+    #left h1{
+        font-size: 8vw;
+        line-height: 9vw;
+    }
+    #left span{
+        font-size: 10vw;
+    }
+    #left p{
+        font-size: 2.5vw;
+        width: 100%;
+    }
+    #right{
+        width: 100%;
+        height: 60%;
+    }
+    #hero-section #CTA{
+        font-size: 3.5vw;
+        padding: 1.5vw 2.5vw;
+        font-weight: 800;
+        border-radius: 10px;
+    }
+}
+
+
