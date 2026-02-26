@@ -1,5 +1,3 @@
-.
-
 🚀 SkillForge – Responsive Landing Page
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F44336&center=true&vCenter=true&width=800&lines=Responsive+Landing+Page;Built+With+Pure+HTML+%26+CSS;Frontend+Practice+Project;Learning+By+Building+🚀" /> </p> <p align="center"> <b>Learn from the smartest learning platform</b><br/> A modern responsive landing page built using HTML & CSS. </p>
 ✨ About The Project
