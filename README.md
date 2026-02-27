@@ -74,7 +74,7 @@ SkillForge/
 ## Screenshots
 
 ### 🖥️ Desktop View
-![Desktop View](image%20copy.png)
+![Desktop View]("C:\Users\sriva\OneDrive\Pictures\Screenshots\Screenshot 2026-02-26 233451.png")
 
 ---
 
