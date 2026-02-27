@@ -1,102 +1,136 @@
-🚀 SkillForge – Responsive Landing Page
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F44336&center=true&vCenter=true&width=800&lines=Responsive+Landing+Page;Built+With+Pure+HTML+%26+CSS;Frontend+Practice+Project;Learning+By+Building+🚀" /> </p> <p align="center"> <b>Learn from the smartest learning platform</b><br/> A modern responsive landing page built using HTML & CSS. </p>
-✨ About The Project
+<div align="center">
 
-SkillForge is a fully responsive landing page created to strengthen core frontend development fundamentals.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F44336&center=true&vCenter=true&width=600&lines=Welcome+to+SkillForge+%F0%9F%94%A5;Learn.+Build.+Grow.;Pure+HTML+%26+CSS+%F0%9F%9A%80;No+Frameworks.+Just+Craft." alt="Typing SVG" />
 
-This project focuses on:
+<br/>
 
-🧱 Writing clean semantic HTML
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Design-4CAF50?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-🎨 Styling with modern CSS
+<br/>
 
-📱 Building responsive layouts
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F44336&height=120&section=header&text=SkillForge&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-💡 Mastering Flexbox
+</div>
 
-🚀 Improving UI building confidence
+---
 
-No frameworks. No libraries.
-Just pure HTML5 & CSS3.
+## Table of Contents
 
-🛠 Tech Stack
-+ HTML5
-+ CSS3
-+ Flexbox
-+ Media Queries
-+ Responsive Units (vh, vw, %, rem)
-  
-🎯 Features
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
+- [Concepts Practiced](#concepts-practiced)
+- [What I Learned](#what-i-learned)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
 
-🖥️ Clean & modern UI
+---
 
-📱 Fully responsive design
+## Overview
 
-🧭 Responsive navbar with mobile menu icon
+SkillForge is a frontend practice project designed to strengthen core HTML and CSS fundamentals. The goal was to build a real-world-style landing page with a responsive layout and clean UI — without reaching for any external framework.
 
-🎨 Google Fonts integration (Ubuntu)
+---
 
-🧱 Structured Hero Section layout
+## Features
 
-🎯 Call-to-Action button styling
+- Fully responsive layout (mobile, tablet, desktop)
+- Responsive navbar with mobile menu icon
+- Hero section with a clear call-to-action
+- Google Fonts integration (Ubuntu)
+- Clean, readable typography and spacing
 
-📸 Project Screenshots
-🖥️ Desktop View
-<img width="1901" height="923" alt="Screenshot 2026-02-26 233451" src="https://github.com/user-attachments/assets/1bdc5f47-7dfb-4dd9-8be3-2fdf9d44e829" />
+---
 
-📱 Mobile View
-<img width="458" height="811" alt="Screenshot 2026-02-26 233518" src="https://github.com/user-attachments/assets/167183cc-d5b8-4863-8f0f-c1d7333e05c4" />
+## Tech Stack
 
+| Technology | Usage |
+|---|---|
+| HTML5 | Page structure and semantic markup |
+| CSS3 | Styling and layout |
+| Flexbox | Component alignment and layout |
+| Media Queries | Responsive breakpoints |
+| Responsive Units | `vh`, `vw`, `%`, `rem` for scalable sizing |
+| calc() | Dynamic spacing and sizing |
 
-🧠 Concepts Practiced
-✔ Box Model
-✔ Positioning
-✔ Flexbox Layout
-✔ calc() Function
-✔ Responsive Typography
-✔ Media Queries
-✔ Navbar Responsiveness
-🚀 What I Learned
+---
 
-While building this project, I improved my understanding of:
+## Project Structure
 
-Percentage vs vh height
+```
+SkillForge/
+├── index.html        # Main HTML file
+├── style.css         # Stylesheet
+└── image copy.png    # Hero section image
+```
 
-Flexbox alignment techniques
+---
 
-Responsive breakpoints
+## Screenshots
 
-Mobile layout restructuring
+### 🖥️ Desktop View
+![Desktop View](image%20copy.png)
 
-Writing scalable CSS
+---
 
-This project represents my journey toward becoming a strong frontend and full-stack developer.
+## Concepts Practiced
 
-🔥 Future Improvements
+- Semantic HTML structure
+- CSS Box Model
+- Flexbox layout and alignment
+- Responsive typography
+- Media queries and breakpoints
+- Navbar responsiveness
+- `calc()` for dynamic values
+- CSS positioning
 
-Add smooth animations
+---
 
-Add hover transitions
+## What I Learned
 
-Add JavaScript interactivity
+Working on SkillForge helped me get hands-on clarity on some tricky frontend concepts:
 
-Deploy live version
+- The difference between `%` and `vh` for height
+- How Flexbox alignment behaves across screen sizes
+- How to structure responsive breakpoints properly
+- Restructuring layouts for mobile without breaking desktop
+- Writing clean, maintainable CSS
 
-Add more sections (Testimonials, Footer, Pricing)
+---
 
-👨‍💻 Author
+## Future Improvements
 
-Gaurav Srivastava
-Frontend Developer | Future Full-Stack Engineer 🚀
+- [ ] Add smooth scroll and CSS animations
+- [ ] Add hover transitions on buttons and cards
+- [ ] Introduce JavaScript for mobile menu toggle
+- [ ] Deploy a live version via GitHub Pages
+- [ ] Add more sections — Testimonials, Pricing, and Footer
 
-“Consistency beats motivation.”
+---
 
-⭐ Support
+## Author
 
-If you like this project:
+<div align="center">
 
-⭐ Star the repo
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1572B6&center=true&vCenter=true&width=500&lines=Gaurav+Srivastava;Frontend+Developer;Aspiring+Full-Stack+Engineer+%F0%9F%9A%80" alt="Author Typing SVG" />
 
-🍴 Fork it
+[![GitHub](https://img.shields.io/badge/GitHub-gauravsri26-181717?style=for-the-badge&logo=github)](https://github.com/gauravsri26)
 
-💬 Share feedback
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=100&section=footer&animation=fadeIn" />
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Consistency beats motivation."*
+
+⭐ If you found this project helpful, give it a star — it means a lot!
+
+</div>
