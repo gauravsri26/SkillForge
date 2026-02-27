@@ -71,13 +71,6 @@ SkillForge/
 
 ---
 
-## Screenshots
-
-### 🖥️ Desktop View
-![Desktop View]("C:\Users\sriva\OneDrive\Pictures\Screenshots\Screenshot 2026-02-26 233451.png")
-
----
-
 ## Concepts Practiced
 
 - Semantic HTML structure
